@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>fileTriggers</key>
+        <dict>
+            <key>_foo</key>
+            <string>app\views\layouts\_footer.html.erb</string>
+            <key>_he</key>
+            <string>app\views\layouts\_header.html.erb</string>
+            <key>_header</key>
+            <string>app\views\layouts\_header.html.erb</string>
+            <key>_sty</key>
+            <string>app\views\layouts\_stylesheets.html.erb</string>
+            <key>custom</key>
+            <string>public\stylesheets\custom.css</string>
+            <key>user.</key>
+            <string>user.rb</string>
+        </dict>
+    </dict>
+</plist>
