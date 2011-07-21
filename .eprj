@@ -24,6 +24,8 @@
             <string>user.rb</string>
             <key>user.r</key>
             <string>app\models\users.rb</string>
+            <key>usersc</key>
+            <string>app\controllers\users_controller.rb</string>
         </dict>
     </dict>
 </plist>
