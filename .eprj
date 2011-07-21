@@ -4,6 +4,8 @@
     <dict>
         <key>fileTriggers</key>
         <dict>
+            <key>Gem</key>
+            <string>Gemfile</string>
             <key>_foo</key>
             <string>app\views\layouts\_footer.html.erb</string>
             <key>_he</key>
@@ -14,6 +16,8 @@
             <string>app\views\layouts\_stylesheets.html.erb</string>
             <key>custom</key>
             <string>public\stylesheets\custom.css</string>
+            <key>footer</key>
+            <string>app\views\layouts\_footer.html.erb</string>
             <key>new</key>
             <string>app\views\users\new.html.erb</string>
             <key>user.</key>
