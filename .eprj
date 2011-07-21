@@ -22,6 +22,8 @@
             <string>app\views\users\new.html.erb</string>
             <key>user.</key>
             <string>user.rb</string>
+            <key>user.r</key>
+            <string>app\models\users.rb</string>
         </dict>
     </dict>
 </plist>
