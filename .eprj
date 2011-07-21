@@ -14,6 +14,8 @@
             <string>app\views\layouts\_stylesheets.html.erb</string>
             <key>custom</key>
             <string>public\stylesheets\custom.css</string>
+            <key>new</key>
+            <string>app\views\users\new.html.erb</string>
             <key>user.</key>
             <string>user.rb</string>
         </dict>
